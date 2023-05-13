@@ -1,0 +1,26 @@
+[
+  {
+    "Nome": "Baby Driver",
+    "Lanc": 2017,
+    "IncluidoNoPlano": false,
+    "Rating": 0,
+    "TotalAvaliacoes": 0,
+    "Duracao": 11
+  },
+  {
+    "Nome": "Cars",
+    "Lanc": 2006,
+    "IncluidoNoPlano": false,
+    "Rating": 0,
+    "TotalAvaliacoes": 0,
+    "Duracao": 11
+  },
+  {
+    "Nome": "Iron Man",
+    "Lanc": 2008,
+    "IncluidoNoPlano": false,
+    "Rating": 0,
+    "TotalAvaliacoes": 0,
+    "Duracao": 12
+  }
+]
